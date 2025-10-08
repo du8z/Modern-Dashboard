@@ -22,7 +22,7 @@
 
 Perfect for startups, SaaS applications, or any project requiring a professional admin panel.
 
-## ✨ Features
+### Features
 
 ### 🎨 **Modern UI/UX**
 
@@ -143,7 +143,7 @@ npm run preview
 
 The build output will be in the `dist/` directory, ready to deploy.
 
-## 📁 Project Structure
+### Project Structure
 
 ```
 modern-dashboard/
@@ -191,7 +191,7 @@ modern-dashboard/
 | `npm run format`       | Format code with Prettier         |
 | `npm run format:check` | Check code formatting             |
 
-## 🌐 Demo
+### Demo
 
 🚀 **Live Demo**: [https://modern-dashboard-six.vercel.app](https://modern-dashboard-six.vercel.app)
 
